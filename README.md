@@ -124,4 +124,3 @@ python test_stage7.py
 ## 📌 Project Purpose
 
 This project was created to learn and demonstrate practical applications of computer vision, image segmentation, masking, background replacement and real-time AI processing.
-````
